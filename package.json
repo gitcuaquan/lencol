@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@types/bootstrap": "^5.2.6",
+    "nuxt": "^3.1.2"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^5.45.0",
+    "@babylonjs/loaders": "^5.45.0",
+    "@types/fabric": "^4.5.15",
+    "bootstrap": "5.2.3",
+    "fabric": "^5.3.0",
+    "three": "^0.149.0"
+  }
+}
